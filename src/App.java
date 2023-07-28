@@ -22,7 +22,7 @@ public class App {
             System.out.println("Recuperação com media de :" + media);
         }
         else{
-            System.out.println("reprovado com media de : "+ media);
+            System.out.println("reprovado com media de : " + media);
         }
 
         sc.close();
